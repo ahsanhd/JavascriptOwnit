@@ -13,3 +13,5 @@ greetAndGoodbye("Ahsan", byebye);
 setTimeout(() => {
   console.info("1");
 }, 1000);
+
+/* Next promises and aysnc await where callbacks really shine */
