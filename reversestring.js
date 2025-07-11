@@ -22,3 +22,10 @@ const reverseString_ = (string) => {
 };
 
 console.log("reversed string", reverseString_("ahsan"));
+
+const reccursiveReverseString = (string) => {
+  if (string === "") return "";
+  return reverseString(string.slice(1)) + string[0];
+};
+
+console.log(reverseString("foo")); // "oof"
