@@ -17,4 +17,4 @@ const palindromeChecker_ = (string) => {
   return cleaned === reversed;
 };
 
-console.log(palindromeChecker("A man, a plan, a canal: Panama")); // true
+console.log(palindromeChecker("A man, a plan, a canal: Panama")); // true // unaother comment
