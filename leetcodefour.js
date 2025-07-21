@@ -19,7 +19,7 @@ Example 2:
 Input: s = "leetcode"
 
 Output: "leotcede" */
-
+/* ok so this is the two pointers  */
 /* Solution  */
 
 /**
