@@ -26,6 +26,7 @@
 // word1:  a   b   c   d
 // word2:    p   q
 // merged: a p b q c   d
+// another comment
 
 const mergeAlternately = (word1, word2) => {
   const result = "";
